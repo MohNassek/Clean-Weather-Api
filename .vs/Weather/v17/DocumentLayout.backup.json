@@ -1,0 +1,529 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet8\\Weather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85FDB9B7-7DDD-46D8-A591-36A58AC5022A}|Weather.Api\\WeatherApi.Api.csproj|d:\\dotnet8\\weather\\weather.api\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FDB9B7-7DDD-46D8-A591-36A58AC5022A}|Weather.Api\\WeatherApi.Api.csproj|solutionrelative:weather.api\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|d:\\dotnet8\\weather\\weather.application\\commandhandler\\updateweathercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|solutionrelative:weather.application\\commandhandler\\updateweathercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|d:\\dotnet8\\weather\\weather.application\\commands\\updateweathercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|solutionrelative:weather.application\\commands\\updateweathercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|d:\\dotnet8\\weather\\weather.application\\queryhandler\\getweatherbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|solutionrelative:weather.application\\queryhandler\\getweatherbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BEC5DC-B2B3-4CC1-8D08-0BD41124D3C8}|Weather.Domain\\WeatherApi.Domain.csproj|d:\\dotnet8\\weather\\weather.domain\\entities\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BEC5DC-B2B3-4CC1-8D08-0BD41124D3C8}|Weather.Domain\\WeatherApi.Domain.csproj|solutionrelative:weather.domain\\entities\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BEC5DC-B2B3-4CC1-8D08-0BD41124D3C8}|Weather.Domain\\WeatherApi.Domain.csproj|d:\\dotnet8\\weather\\weather.domain\\interfaces\\iweatherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BEC5DC-B2B3-4CC1-8D08-0BD41124D3C8}|Weather.Domain\\WeatherApi.Domain.csproj|solutionrelative:weather.domain\\interfaces\\iweatherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|d:\\dotnet8\\weather\\weather.infrastructure\\repositories\\weatherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|solutionrelative:weather.infrastructure\\repositories\\weatherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|d:\\dotnet8\\weather\\weather.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|solutionrelative:weather.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|d:\\dotnet8\\weather\\weather.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|solutionrelative:weather.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|d:\\dotnet8\\weather\\weather.infrastructure\\model\\weatherapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|solutionrelative:weather.infrastructure\\model\\weatherapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|d:\\dotnet8\\weather\\weather.infrastructure\\services\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|solutionrelative:weather.infrastructure\\services\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FDB9B7-7DDD-46D8-A591-36A58AC5022A}|Weather.Api\\WeatherApi.Api.csproj|d:\\dotnet8\\weather\\weather.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85FDB9B7-7DDD-46D8-A591-36A58AC5022A}|Weather.Api\\WeatherApi.Api.csproj|solutionrelative:weather.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|d:\\dotnet8\\weather\\weather.application\\commandhandler\\fetchweathercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|solutionrelative:weather.application\\commandhandler\\fetchweathercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|d:\\dotnet8\\weather\\weather.application\\commands\\fetchweathercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|solutionrelative:weather.application\\commands\\fetchweathercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|d:\\dotnet8\\weather\\weather.application\\commandhandler\\addweathercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|solutionrelative:weather.application\\commandhandler\\addweathercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|d:\\dotnet8\\weather\\weather.application\\commands\\addweathercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|solutionrelative:weather.application\\commands\\addweathercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FDB9B7-7DDD-46D8-A591-36A58AC5022A}|Weather.Api\\WeatherApi.Api.csproj|d:\\dotnet8\\weather\\weather.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FDB9B7-7DDD-46D8-A591-36A58AC5022A}|Weather.Api\\WeatherApi.Api.csproj|solutionrelative:weather.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|d:\\dotnet8\\weather\\weather.infrastructure\\services\\iweatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|solutionrelative:weather.infrastructure\\services\\iweatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|d:\\dotnet8\\weather\\weather.infrastructure\\data\\weatherdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|solutionrelative:weather.infrastructure\\data\\weatherdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DotNet8\\Weather\\Weather.Infrastructure\\Migrations\\20241217171705_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Weather.Infrastructure\\Migrations\\20241217171705_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|d:\\dotnet8\\weather\\weather.infrastructure\\weatherapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|solutionrelative:weather.infrastructure\\weatherapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|d:\\dotnet8\\weather\\weather.application\\commandhandler\\deleteweathercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|solutionrelative:weather.application\\commandhandler\\deleteweathercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FDB9B7-7DDD-46D8-A591-36A58AC5022A}|Weather.Api\\WeatherApi.Api.csproj|d:\\dotnet8\\weather\\weather.api\\weather.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{85FDB9B7-7DDD-46D8-A591-36A58AC5022A}|Weather.Api\\WeatherApi.Api.csproj|solutionrelative:weather.api\\weather.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|d:\\dotnet8\\weather\\weather.application\\queryhandler\\getallweathersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|solutionrelative:weather.application\\queryhandler\\getallweathersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|d:\\dotnet8\\weather\\weather.application\\queries\\getweatherbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|solutionrelative:weather.application\\queries\\getweatherbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|d:\\dotnet8\\weather\\weather.application\\queries\\getallweathersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|solutionrelative:weather.application\\queries\\getallweathersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|d:\\dotnet8\\weather\\weather.application\\commands\\deleteweathercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|solutionrelative:weather.application\\commands\\deleteweathercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|d:\\dotnet8\\weather\\weather.application\\weatherapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3843783A-6CC9-419D-949B-A48D017F64CB}|Weather.Application\\WeatherApi.Application.csproj|solutionrelative:weather.application\\weatherapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FDB9B7-7DDD-46D8-A591-36A58AC5022A}|Weather.Api\\WeatherApi.Api.csproj|d:\\dotnet8\\weather\\weather.api\\weatherapi.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85FDB9B7-7DDD-46D8-A591-36A58AC5022A}|Weather.Api\\WeatherApi.Api.csproj|solutionrelative:weather.api\\weatherapi.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|d:\\dotnet8\\weather\\weather.infrastructure\\migrations\\20241217172021_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0C5353-0F73-42F3-A2B2-4DA4EA31BA16}|Weather.Infrastructure\\WeatherApi.Infrastructure.csproj|solutionrelative:weather.infrastructure\\migrations\\20241217172021_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{66f449b5-c823-40bc-9016-02b4d06a1a8e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Weather.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Weather.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:22:28.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Weather.Api\\appsettings.json",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Api\\appsettings.json",
+              "RelativeToolTip": "Weather.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T11:33:36.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Weather.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Weather.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:39:03.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Api\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "Weather.Api\\Controllers\\WeatherController.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Api\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "Weather.Api\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:50:35.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWeatherRepository.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Domain\\Interfaces\\IWeatherRepository.cs",
+              "RelativeDocumentMoniker": "Weather.Domain\\Interfaces\\IWeatherRepository.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Domain\\Interfaces\\IWeatherRepository.cs",
+              "RelativeToolTip": "Weather.Domain\\Interfaces\\IWeatherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:59.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetWeatherByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Application\\QueryHandler\\GetWeatherByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Weather.Application\\QueryHandler\\GetWeatherByIdQueryHandler.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Application\\QueryHandler\\GetWeatherByIdQueryHandler.cs",
+              "RelativeToolTip": "Weather.Application\\QueryHandler\\GetWeatherByIdQueryHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:47:46.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FetchWeatherCommandHandler.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Application\\CommandHandler\\FetchWeatherCommandHandler.cs",
+              "RelativeDocumentMoniker": "Weather.Application\\CommandHandler\\FetchWeatherCommandHandler.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Application\\CommandHandler\\FetchWeatherCommandHandler.cs",
+              "RelativeToolTip": "Weather.Application\\CommandHandler\\FetchWeatherCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:19:52.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherApiService.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\Services\\WeatherApiService.cs",
+              "RelativeDocumentMoniker": "Weather.Infrastructure\\Services\\WeatherApiService.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\Services\\WeatherApiService.cs",
+              "RelativeToolTip": "Weather.Infrastructure\\Services\\WeatherApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:52:03.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateWeatherCommand.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Application\\Commands\\UpdateWeatherCommand.cs",
+              "RelativeDocumentMoniker": "Weather.Application\\Commands\\UpdateWeatherCommand.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Application\\Commands\\UpdateWeatherCommand.cs",
+              "RelativeToolTip": "Weather.Application\\Commands\\UpdateWeatherCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:41:39.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateWeatherCommandHandler.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Application\\CommandHandler\\UpdateWeatherCommandHandler.cs",
+              "RelativeDocumentMoniker": "Weather.Application\\CommandHandler\\UpdateWeatherCommandHandler.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Application\\CommandHandler\\UpdateWeatherCommandHandler.cs",
+              "RelativeToolTip": "Weather.Application\\CommandHandler\\UpdateWeatherCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:43:01.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherApiResponse.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\Model\\WeatherApiResponse.cs",
+              "RelativeDocumentMoniker": "Weather.Infrastructure\\Model\\WeatherApiResponse.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\Model\\WeatherApiResponse.cs",
+              "RelativeToolTip": "Weather.Infrastructure\\Model\\WeatherApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:26:43.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherRepository.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\Repositories\\WeatherRepository.cs",
+              "RelativeDocumentMoniker": "Weather.Infrastructure\\Repositories\\WeatherRepository.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\Repositories\\WeatherRepository.cs",
+              "RelativeToolTip": "Weather.Infrastructure\\Repositories\\WeatherRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wFQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:23:46.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddWeatherCommand.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Application\\Commands\\AddWeatherCommand.cs",
+              "RelativeDocumentMoniker": "Weather.Application\\Commands\\AddWeatherCommand.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Application\\Commands\\AddWeatherCommand.cs",
+              "RelativeToolTip": "Weather.Application\\Commands\\AddWeatherCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:21:59.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Domain\\Entities\\Weather.cs",
+              "RelativeDocumentMoniker": "Weather.Domain\\Entities\\Weather.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Domain\\Entities\\Weather.cs",
+              "RelativeToolTip": "Weather.Domain\\Entities\\Weather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:09:07.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Weather.Api\\Program.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Api\\Program.cs",
+              "RelativeToolTip": "Weather.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:31:15.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddWeatherCommandHandler.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Application\\CommandHandler\\AddWeatherCommandHandler.cs",
+              "RelativeDocumentMoniker": "Weather.Application\\CommandHandler\\AddWeatherCommandHandler.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Application\\CommandHandler\\AddWeatherCommandHandler.cs",
+              "RelativeToolTip": "Weather.Application\\CommandHandler\\AddWeatherCommandHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:24:05.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FetchWeatherCommand.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Application\\Commands\\FetchWeatherCommand.cs",
+              "RelativeDocumentMoniker": "Weather.Application\\Commands\\FetchWeatherCommand.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Application\\Commands\\FetchWeatherCommand.cs",
+              "RelativeToolTip": "Weather.Application\\Commands\\FetchWeatherCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:19:03.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IWeatherApiService.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\Services\\IWeatherApiService.cs",
+              "RelativeDocumentMoniker": "Weather.Infrastructure\\Services\\IWeatherApiService.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\Services\\IWeatherApiService.cs",
+              "RelativeToolTip": "Weather.Infrastructure\\Services\\IWeatherApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:55:40.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherDbContext.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\Data\\WeatherDbContext.cs",
+              "RelativeDocumentMoniker": "Weather.Infrastructure\\Data\\WeatherDbContext.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\Data\\WeatherDbContext.cs",
+              "RelativeToolTip": "Weather.Infrastructure\\Data\\WeatherDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:14:32.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241217171705_initial.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\Migrations\\20241217171705_initial.cs",
+              "RelativeDocumentMoniker": "Weather.Infrastructure\\Migrations\\20241217171705_initial.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\Migrations\\20241217171705_initial.cs",
+              "RelativeToolTip": "Weather.Infrastructure\\Migrations\\20241217171705_initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:17:06.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241217172021_initial.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\Migrations\\20241217172021_initial.cs",
+              "RelativeDocumentMoniker": "Weather.Infrastructure\\Migrations\\20241217172021_initial.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\Migrations\\20241217172021_initial.cs",
+              "RelativeToolTip": "Weather.Infrastructure\\Migrations\\20241217172021_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:20:21.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherApi.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\WeatherApi.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Weather.Infrastructure\\WeatherApi.Infrastructure.csproj",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Infrastructure\\WeatherApi.Infrastructure.csproj",
+              "RelativeToolTip": "Weather.Infrastructure\\WeatherApi.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T11:12:38.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetAllWeathersQuery.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Application\\Queries\\GetAllWeathersQuery.cs",
+              "RelativeDocumentMoniker": "Weather.Application\\Queries\\GetAllWeathersQuery.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Application\\Queries\\GetAllWeathersQuery.cs",
+              "RelativeToolTip": "Weather.Application\\Queries\\GetAllWeathersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:45:42.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetWeatherByIdQuery.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Application\\Queries\\GetWeatherByIdQuery.cs",
+              "RelativeDocumentMoniker": "Weather.Application\\Queries\\GetWeatherByIdQuery.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Application\\Queries\\GetWeatherByIdQuery.cs",
+              "RelativeToolTip": "Weather.Application\\Queries\\GetWeatherByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:46:05.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteWeatherCommandHandler.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Application\\CommandHandler\\DeleteWeatherCommandHandler.cs",
+              "RelativeDocumentMoniker": "Weather.Application\\CommandHandler\\DeleteWeatherCommandHandler.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Application\\CommandHandler\\DeleteWeatherCommandHandler.cs",
+              "RelativeToolTip": "Weather.Application\\CommandHandler\\DeleteWeatherCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:43:32.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetAllWeathersQueryHandler.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Application\\QueryHandler\\GetAllWeathersQueryHandler.cs",
+              "RelativeDocumentMoniker": "Weather.Application\\QueryHandler\\GetAllWeathersQueryHandler.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Application\\QueryHandler\\GetAllWeathersQueryHandler.cs",
+              "RelativeToolTip": "Weather.Application\\QueryHandler\\GetAllWeathersQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:46:54.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Weather.Api.http",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Api\\Weather.Api.http",
+              "RelativeDocumentMoniker": "Weather.Api\\Weather.Api.http",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Api\\Weather.Api.http",
+              "RelativeToolTip": "Weather.Api\\Weather.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-17T15:49:15.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeleteWeatherCommand.cs",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Application\\Commands\\DeleteWeatherCommand.cs",
+              "RelativeDocumentMoniker": "Weather.Application\\Commands\\DeleteWeatherCommand.cs",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Application\\Commands\\DeleteWeatherCommand.cs",
+              "RelativeToolTip": "Weather.Application\\Commands\\DeleteWeatherCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:42:02.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WeatherApi.Application.csproj",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Application\\WeatherApi.Application.csproj",
+              "RelativeDocumentMoniker": "Weather.Application\\WeatherApi.Application.csproj",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Application\\WeatherApi.Application.csproj",
+              "RelativeToolTip": "Weather.Application\\WeatherApi.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T15:19:54.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WeatherApi.Api.csproj",
+              "DocumentMoniker": "D:\\DotNet8\\Weather\\Weather.Api\\WeatherApi.Api.csproj",
+              "RelativeDocumentMoniker": "Weather.Api\\WeatherApi.Api.csproj",
+              "ToolTip": "D:\\DotNet8\\Weather\\Weather.Api\\WeatherApi.Api.csproj",
+              "RelativeToolTip": "Weather.Api\\WeatherApi.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T11:47:45.165Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

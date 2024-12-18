@@ -1,0 +1,17 @@
+D:\DotNet8\Weather\Weather.Infrastructure\bin\Debug\net8.0\Weather.Infrastructure.deps.json
+D:\DotNet8\Weather\Weather.Infrastructure\bin\Debug\net8.0\Weather.Infrastructure.dll
+D:\DotNet8\Weather\Weather.Infrastructure\bin\Debug\net8.0\Weather.Infrastructure.pdb
+D:\DotNet8\Weather\Weather.Infrastructure\obj\Debug\net8.0\Weather.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet8\Weather\Weather.Infrastructure\obj\Debug\net8.0\Weather.Infrastructure.AssemblyInfoInputs.cache
+D:\DotNet8\Weather\Weather.Infrastructure\obj\Debug\net8.0\Weather.Infrastructure.AssemblyInfo.cs
+D:\DotNet8\Weather\Weather.Infrastructure\obj\Debug\net8.0\Weather.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DotNet8\Weather\Weather.Infrastructure\obj\Debug\net8.0\Weather.Infrastructure.dll
+D:\DotNet8\Weather\Weather.Infrastructure\obj\Debug\net8.0\refint\Weather.Infrastructure.dll
+D:\DotNet8\Weather\Weather.Infrastructure\obj\Debug\net8.0\Weather.Infrastructure.pdb
+D:\DotNet8\Weather\Weather.Infrastructure\obj\Debug\net8.0\ref\Weather.Infrastructure.dll
+D:\DotNet8\Weather\Weather.Infrastructure\bin\Debug\net8.0\Weather.Infrastructure.runtimeconfig.json
+D:\DotNet8\Weather\Weather.Infrastructure\bin\Debug\net8.0\Weather.Domain.dll
+D:\DotNet8\Weather\Weather.Infrastructure\bin\Debug\net8.0\Weather.Domain.pdb
+D:\DotNet8\Weather\Weather.Infrastructure\obj\Debug\net8.0\Weather.Infrastructure.csproj.AssemblyReference.cache
+D:\DotNet8\Weather\Weather.Infrastructure\obj\Debug\net8.0\Weather..9EE8A733.Up2Date
+D:\DotNet8\Weather\Weather.Infrastructure\obj\Debug\net8.0\Weather.Infrastructure.genruntimeconfig.cache

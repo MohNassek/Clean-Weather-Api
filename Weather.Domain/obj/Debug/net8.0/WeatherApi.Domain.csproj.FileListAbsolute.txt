@@ -1,0 +1,12 @@
+D:\DotNet8\Weather\Weather.Domain\bin\Debug\net8.0\WeatherApi.Domain.deps.json
+D:\DotNet8\Weather\Weather.Domain\bin\Debug\net8.0\WeatherApi.Domain.dll
+D:\DotNet8\Weather\Weather.Domain\bin\Debug\net8.0\WeatherApi.Domain.pdb
+D:\DotNet8\Weather\Weather.Domain\obj\Debug\net8.0\WeatherApi.Domain.csproj.AssemblyReference.cache
+D:\DotNet8\Weather\Weather.Domain\obj\Debug\net8.0\WeatherApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet8\Weather\Weather.Domain\obj\Debug\net8.0\WeatherApi.Domain.AssemblyInfoInputs.cache
+D:\DotNet8\Weather\Weather.Domain\obj\Debug\net8.0\WeatherApi.Domain.AssemblyInfo.cs
+D:\DotNet8\Weather\Weather.Domain\obj\Debug\net8.0\WeatherApi.Domain.csproj.CoreCompileInputs.cache
+D:\DotNet8\Weather\Weather.Domain\obj\Debug\net8.0\WeatherApi.Domain.dll
+D:\DotNet8\Weather\Weather.Domain\obj\Debug\net8.0\refint\WeatherApi.Domain.dll
+D:\DotNet8\Weather\Weather.Domain\obj\Debug\net8.0\WeatherApi.Domain.pdb
+D:\DotNet8\Weather\Weather.Domain\obj\Debug\net8.0\ref\WeatherApi.Domain.dll

@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "WeatherApi.Api.Controllers.WeatherController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/Weather/AddWeather",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "weather",
+        "Type": "WeatherApi.Domain.Entities.Weather",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeatherApi.Api.Controllers.WeatherController",
+    "Method": "FetchWeatherAsync",
+    "RelativePath": "api/Weather/AddWeatherByCity",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeatherApi.Api.Controllers.WeatherController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Weather/DeleteWeather",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeatherApi.Api.Controllers.WeatherController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Weather/GetAllWeathers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeatherApi.Api.Controllers.WeatherController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Weather/GetWeatherById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeatherApi.Api.Controllers.WeatherController",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/Weather/UpdateWeather",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "weather",
+        "Type": "WeatherApi.Domain.Entities.Weather",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

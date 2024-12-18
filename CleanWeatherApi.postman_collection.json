@@ -1,0 +1,163 @@
+{
+	"info": {
+		"_postman_id": "1f517a5d-3ae2-454c-8f46-527d4938b8ff",
+		"name": "CleanWeatherApi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "30890641"
+	},
+	"item": [
+		{
+			"name": "https://localhost:7273/api/Weather/AddWeatherByCity?city=matale",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": 27,\r\n    \"country\": \"LK\",\r\n    \"city\": \"matale\",\r\n    \"temperature\": 23.55000000000001\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7273/api/Weather/AddWeatherByCity?city=matale",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7273",
+					"path": [
+						"api",
+						"Weather",
+						"AddWeatherByCity"
+					],
+					"query": [
+						{
+							"key": "city",
+							"value": "matale"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7273/api/Weather/AddWeather",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \r\n    \"country\": \"LK\",\r\n    \"city\": \"maradana\",\r\n    \"temperature\": 22.55000000000001\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7273/api/Weather/AddWeather",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7273",
+					"path": [
+						"api",
+						"Weather",
+						"AddWeather"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7273/api/Weather/GetAllWeathers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7273/api/Weather/GetAllWeathers",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7273",
+					"path": [
+						"api",
+						"Weather",
+						"GetAllWeathers"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7273/api/Weather/GetWeatherById?id=27",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7273/api/Weather/GetWeatherById?id=27",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7273",
+					"path": [
+						"api",
+						"Weather",
+						"GetWeatherById"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "27"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7273/api/Weather/UpdateWeather?id=27",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": 27,\r\n    \"country\": \"LK\",\r\n    \"city\": \"bandarawela\",\r\n    \"temperature\": 23.55000000000001\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7273/api/Weather/UpdateWeather?id=27",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7273",
+					"path": [
+						"api",
+						"Weather",
+						"UpdateWeather"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "27"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
